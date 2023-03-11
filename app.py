@@ -1,5 +1,5 @@
 import streamlit as st
-import scikit-learn
+import sklearn
 import plotly
 
 st.title("GIẢI PHƯƠNG TRÌNH BẬC NHẤT")
